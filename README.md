@@ -6,3 +6,5 @@ Descripción ficheros en el repositorio:
 - Código de Python para hacer el web scraping.
 - Dataset con los datos extraidos en formato csv.
 - Video explicativo de la práctica.
+- DOI: 10.5281/zenodo.7856522 
+- Zenodo:https://zenodo.org/record/7856522#.ZEUC2XZByAs
